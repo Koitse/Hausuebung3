@@ -64,5 +64,15 @@ public class Weapons  {
     }
 
 
+    public int getMinStrength() {
+
+
+        return 0;
+    }
+
+    public void setValue(int i) {
+
+
+    }
 }
 
