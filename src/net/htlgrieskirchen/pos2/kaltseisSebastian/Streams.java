@@ -18,15 +18,11 @@ public class Streams {
             numbers[i] = (int) (Math.random()*obergrenze);
         }
 
-
         for (int i = 0; i < strings.length; i++) {
             strings[i]= String.valueOf(UUID.randomUUID());
         }
 
-
-
     }
-
 
     public double average(int[] numbers) {
 
